@@ -8,7 +8,7 @@ description = "The only purpose of this crate is to provide easy functionality t
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-crossterm = "*"
-colored = "*"
-serde_json = "*"
-ureq = "*"
+crossterm = "0.22.1"
+colored = "2.0.0"
+serde_json = "1.0.73"
+ureq = "2.3.1"
