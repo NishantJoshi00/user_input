@@ -1,6 +1,6 @@
-extern crate user_input;
+extern crate user_input_with_autocomplete;
 
-use user_input::input::UserInput;
+use user_input_with_autocomplete::input::UserInput;
 
 
 fn main() {

@@ -1,5 +1,5 @@
 [package]
-name = "user_input"
+name = "user_input_with_autocomplete"
 version = "0.1.1"
 edition = "2021"
 license = "MIT"
