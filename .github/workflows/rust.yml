@@ -21,4 +21,4 @@ jobs:
     - name: Dry run
       run: cargo publish --dry-run
     - name: Publish
-      run: cargo publish --token ${{ github.publish_token }}
+      run: cargo publish --token ${{ secrets.publish_token }}
